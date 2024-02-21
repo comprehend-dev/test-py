@@ -1,2 +1,2 @@
 # test-py
-Some Python repository
+Python repository for automated testing of integrations.
